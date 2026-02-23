@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;800&display=swap');
 
 :root {
-  --color-accent-navy: #1e2a38;
   --color-primary: #f4c430;
   --color-bg: #ffffff;
   --color-surface: #f8f9fa;
@@ -71,8 +70,6 @@ body {
 
 /* Components */
 .badge {
-  background: #eef2f6;
-  color: var(--color-accent-navy);
   display: inline-block;
   font-size: 12px;
   font-weight: 600;
