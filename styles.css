@@ -71,6 +71,8 @@ body {
 
 /* Components */
 .badge {
+  background: #eef2f6;
+  color: var(--color-accent-navy);
   display: inline-block;
   font-size: 12px;
   font-weight: 600;
